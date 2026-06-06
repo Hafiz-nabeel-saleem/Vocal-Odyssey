@@ -78,7 +78,22 @@ To run Vocal Odyssey locally, you'll need both the **Frontend** and **Backend** 
 
 ---
 
-## 📚 Project Documentation
+## 🎮 How to Use the App
 
-For a deeper dive into the system requirements and technical design:
-📄 [View SRS Document](https://drive.google.com/file/d/1oqKwgFWz7cqF9f6R5y7izwC5YC9TMx85/view?usp=drive_link)
+Vocal Odyssey is designed with three distinct user roles, each offering unique functionalities to create a holistic learning environment.
+
+### 1. Child Experience (Learning Mode)
+- **Level Selection:** Children can navigate through carefully structured learning modules starting from fundamental **Phonics**, advancing to complete **Words**, and eventually **Sentences**.
+- **Interactive Playground:** When a level is selected, the app uses text-to-speech to demonstrate the correct pronunciation. The child is then prompted to repeat the sound or word.
+- **Real-Time Feedback & Rewards:** The app records the child's voice and evaluates their pronunciation instantly. Based on accuracy, the child earns stars and celebratory rewards to keep them engaged.
+- **Progress Tracking:** Children can view their own "Avatar Progress" and see how many levels they've unlocked.
+
+### 2. Supervisor (Parent/Teacher) Experience
+- **Profile Management:** Supervisors can create and manage multiple child profiles under a single account.
+- **Progress Monitoring:** Access detailed progress reports and overviews for each child. Supervisors can track pronunciation scores, identify areas for improvement, and monitor completed levels.
+- **Personalized Settings:** Adjust learning settings tailored to the individual child's pace and needs.
+
+### 3. Admin Experience
+- **Content Management:** Admins have full control over the educational material. They can easily add, edit, or remove phonics, words, and sentences to keep the curriculum updated.
+- **User Management:** Comprehensive tools to manage Supervisor and Child accounts across the platform.
+- **System Dashboard:** A dedicated dashboard providing a top-level view of app usage and content metrics.
