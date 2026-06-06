@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.local
+
+# Flutter/Dart
+**/build/
+**/.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+*.apk
+*.aab
+*.dill
+*.bin
+
+# General Editor / OS
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.history/
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Large media files and archives
+*.mp4
+*.mkv
+*.mov
+*.zip
+*.tar.gz
+*.rar
+
+# Databases
+*.sqlite
+*.db
